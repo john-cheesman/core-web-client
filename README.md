@@ -1,6 +1,6 @@
 # core-web-client
 
-> A demo wb client for Core Web API, built with Vue JS
+> A demo web client for Core Web API, built with Vue JS
 
 ## Build Setup
 
