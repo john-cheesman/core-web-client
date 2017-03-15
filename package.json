@@ -1,7 +1,7 @@
 {
   "name": "core-web-client",
   "version": "0.1.0",
-  "description": "A demo wb client for Core Web API, built with Vue JS",
+  "description": "A demo web client for Core Web API, built with Vue JS",
   "author": "John Cheesman <me@johncheesman.org.uk>",
   "private": true,
   "scripts": {
